@@ -34,7 +34,7 @@
     "build": "echo 'open-collaboration-protocol: Nothing extra to build.'"
   },
   "dependencies": {
-    "lodash": "~4.17.21",
+    "lodash": "~4.17.23",
     "open-collaboration-protocol": "~0.3.1",
     "open-collaboration-yjs": "~0.3.0"
   },
